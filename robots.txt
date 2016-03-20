@@ -1,0 +1,4 @@
+Sitemap: http://fishmacs.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: fishmacs.github.io
